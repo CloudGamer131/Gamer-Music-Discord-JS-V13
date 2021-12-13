@@ -2,4 +2,4 @@
 Discord Server:
 **__Want To Join The Owners @CloudGamer131#1703's Discord For YouTube, Twitch, Bot Coding, and Other Cool Things. Well Join With This Link__**
 https://dsc.gg/cg-gang
-A Discord Bot For Discord.js Version 13
+A Discord Music Bot For Discord.JS Version 13
